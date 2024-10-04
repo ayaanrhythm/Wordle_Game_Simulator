@@ -1,4 +1,4 @@
-# Wordle_Game_Simulator
+# Wordle Game Simulator
 A Wordle Game Simulator that allows users to play Wordle unlimited times 
 
 This project was written using Java programming language and Gradle
